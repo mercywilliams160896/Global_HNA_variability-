@@ -1,0 +1,52 @@
+Genetic variants approved and recognized in HNA - Class 1 sytem						
+Chr	Pos (Hg38)	Pos (Hg19)	Ref	Alt	RSID	Category
+1	161629781	161599571	T	C	rs2290834	ISBT approved variants
+1	161629853	161599643	T	C	rs147574249	ISBT approved variants
+1	161629864	161599654	G	T	rs5030738	ISBT approved variants
+1	161629903	161599693	T	C	rs448740	ISBT approved variants
+1	161629983	161599773	A	G	rs527909462	ISBT approved variants
+1	161629989	161599779	G	C	rs200688856	ISBT approved variants
+1	161629726	161599516	C	T	rs201867931	Curated variant
+1	161629739	161599529	C	T	rs202089363	Curated variant
+						
+Genetic variants approved and recognized in HNA - Class 2 sytem						
+Chr	Pos (Hg38)	Pos (Hg19)	Ref	Alt	RSID	Category
+19	43361169	43865321	A	T	rs201821720	Curated variant
+19	43362297	43866449	G	A	rs78718189	Curated variant
+19	43361225	43865377	A	T	NA	Curated variant
+19	43361509	43865661	G	-	NA	Curated variant
+19	43361175	43865327	A	C	NA	Curated variant
+19	43362090	43866242	G	A	NA	Curated variant
+19	43353934	43858086	A	T	NA	Curated variant
+19	43353956	43858108	G	A	NA	Curated variant
+19	43362339	43866491	G	A	NA	Curated variant
+19	10602536	10713212	G	A	rs115559926	Curated variant
+19	10627963	10738639	C	T	rs3087969	Curated variant
+19	10631490	10742166	C	T	rs147820753	Curated variant
+19	10631494	10742170	A	G	rs2288904	Curated variant
+19	10632065	10742741	G	A	rs146127348	Curated variant
+19	10632155	10742831	C	T	rs141667578	Curated variant
+19	10635053	10745729	A	G	rs35362308	Curated variant
+19	10635247	10745923	C	T	rs7255431	Curated variant
+19	10643307	10753983	G	A	rs34625417	Curated variant
+19	10643310	10753986	C	G	rs151043533	Curated variant
+19	10643627	10754303	T	C	rs116639546	Curated variant
+19	10643724	10754400	A	G	rs1053007	Curated variant
+19	10644138	10754814	G	A	rs74795234	Curated variant
+19	10644229	10754905	G	T	rs10948	Curated variant
+						
+Genetic variants approved and recognized in HNA - Class 3 sytem						
+Chr	Pos (Hg38)	Pos (Hg19)	Ref	Alt	RSID	Category
+19	10631490	10742166	C	T	rs147820753	ISBT approved variants
+19	10631494	10742170	A	G	rs2288904	ISBT approved variants
+19	10635012	10745688	C	T	NA	Curated variant
+19	10631666	10742342	C	T	NA	Curated variant
+						
+Genetic variants approved and recognized in HNA-4 class system						
+Chr	Pos (Hg38)	Pos (Hg19)	Ref	Alt	RSID	Category
+16	31265490	31276811	G	A	rs1143679	ISBT approved variants
+						
+Genetic variants approved and recognized in HNA-5 class system						
+Chr	Pos (Hg38)	Pos (Hg19)	Ref	Alt	RSID	Category
+16	30506720	30518041	G	C	rs2230433	ISBT approved variants
+
