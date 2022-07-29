@@ -17,9 +17,9 @@ The study involved a systematic compilation of HNA variants that are approved by
 <h3> Compilation of reference file </h3> 
 A reference file comprising the list of ISBT approved and curated HNA variants reported till date was compiled in a pre-formatted template to be used as reference <br/>
 
-<h3> Retrieving global population allele frequencies </h3> <br/>
+<h3> Retrieving global population allele frequencies </h3>
 For the compiled list of HNA variants minor allele frequencies from global subpopulations were retrieved <br/>
 
-<h3> Estimation of statistical significance </h3> <br/>
+<h3> Estimation of statistical significance </h3>
 Any statistically distinct differences or similarities were accessed by Fishers exact test (P-value <= 0.05) using the allele counts and allele numbers of the variants
 
