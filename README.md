@@ -14,7 +14,7 @@ The study involved a systematic compilation of HNA variants that are approved by
 
 <h2> Steps followed in the analysis of the study data </h2> <br/>
 
-<h3> Compilation of reference file </h3> <br/>
+<h3> Compilation of reference file </h3> 
 A reference file comprising the list of ISBT approved and curated HNA variants reported till date was compiled in a pre-formatted template to be used as reference <br/>
 
 <h3> Retrieving global population allele frequencies </h3> <br/>
