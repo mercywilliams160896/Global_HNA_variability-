@@ -11,4 +11,14 @@ The study involved a systematic compilation of HNA variants that are approved by
 2. 1000 Genomes Phase 3 subpopulation wise allele frequencies - https://asia.ensembl.org/index.html <br/>
 3. gnomAD allele frequencies - https://gnomad.broadinstitute.org/ <br/>
 
+<h2> Steps followed in the analysis of the study data </h2> <br/>
+
+<h3> Compilation of reference file </h3> <br/>
+A reference file comprising the list of ISBT approved and curated HNA variants reported till date was compiled in a pre-formatted template to be used as reference <br/>
+
+<h3> Retrieving global population allele frequencies </h3> <br/>
+For the compiled list of HNA variants minor allele frequencies from global subpopulations were retrieved <br/>
+
+<h3> Estimation of statistical significance </h3> <br/>
+Any statistically distinct differences or similarities were accessed by Fishers exact test (P-value <= 0.05) using the allele counts and allele numbers of the variants
 
