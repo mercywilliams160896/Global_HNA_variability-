@@ -10,6 +10,7 @@ The study involved a systematic compilation of HNA variants that are approved by
 1. 1000 Genomes Phase 3 vcfs (hg38 build) - https://www.internationalgenome.org/data-portal/data-collection/grch38 <br/>
 2. 1000 Genomes Phase 3 subpopulation wise allele frequencies - https://asia.ensembl.org/index.html <br/>
 3. gnomAD allele frequencies - https://gnomad.broadinstitute.org/ <br/>
+4. Fishers Exact Test (R)
 
 <h2> Steps followed in the analysis of the study data </h2> <br/>
 
